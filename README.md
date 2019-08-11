@@ -1,17 +1,12 @@
 # Tindev
-Genérico multiplataforma do Tinder desenvolvido para funcionar com perfis no github.
+Generic Tinder cross-platform designed to work with non-github profiles.
 
+The files in the directory are domain code, server management certificates for servers throughout the application. To be used by the database, replace a mongURL constant in the server.js file to link to your mongoDB database.
 
-Os arquivos no diretório Backend são os códigos, desenvolvidos em Nodejs responsáveis por gerenciar o servidor a ser usado em toda a aplicação.
-Para ser usado pelo banco de dados, substituir a constante mongURL no aquivo server.js para o link do seu banco de 
-dados da mongoDB.
+================================================== ================================================== ===============
 
-===================================================================================================================
+The files in Frontend are responsible for rendering web applications. Pay attention to what ports you are using. They were developed using Reactjs
 
-Os arquivos no Frontend são os responsáveis pela renderização da aplicação na web. Atente-se as portas que estiver
-usando. Foram desenvolvdos ultilizando Reactjs
+================================================== ================================================== ===============
 
-===================================================================================================================
-
-Os arquivos no diretório Tindev, estão os arquivos que foram gerados utilizado o reactive-native, essse são 
-responsaveis pela rederização da aplicação mobile (android e IOS).
+The files in the Tindev directory, are the files that were generated and used as reactive natives, are responsible for the rederization of the mobile application (android and IOS).
