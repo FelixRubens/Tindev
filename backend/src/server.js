@@ -1,4 +1,4 @@
-const mongURL = 'mongodb+srv://rubensfelix:rubensfelix@cluster0-hyatk.mongodb.net/omnistack8?retryWrites=true&w=majority'
+const mongURL = ''
 const express = require('express')
 const mongoose = require('mongoose')
 const cors = require('cors')
