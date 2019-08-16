@@ -1,5 +1,5 @@
 # Tindev
-Generic Tinder cross-platform designed to work with non-github profiles.
+Generic Tinder cross-platform designed to work with github profiles.
 
 The files in the directory are domain code, server management certificates for servers throughout the application. To be used by the database, replace a mongURL constant in the server.js file to link to your mongoDB database.
 
